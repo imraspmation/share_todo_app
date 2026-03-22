@@ -1,0 +1,19 @@
+{
+  "name": "share_todo_app",
+  "version": "1.0.0",
+  "description": "This app is sharing todo in group.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/imraspmation/share_todo_app.git"
+  },
+  "author": "Keita Goto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imraspmation/share_todo_app/issues"
+  },
+  "homepage": "https://github.com/imraspmation/share_todo_app#readme"
+}
